@@ -1,16 +1,38 @@
-# eshopapp
+# E-shop
+It's an Ecommerce App with beautiful UI and built on Flutter.
 
-A new Flutter application.
 
-## Getting Started
+# Features
+Sign-In, Sign-Up and LogOut using Email & Password .
 
-This project is a starting point for a Flutter application.
+Google Account .
 
-A few resources to get you started if this is your first Flutter project:
+Facebook Account.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Categories and Search for Products.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Add/Remove Products to/from Cart.
+
+Change quantity of products in the cart.
+
+Check out your Cart and Make an Order.
+
+Notifications.
+
+Offers and Apply Vouchers code in order.
+
+Check your recent orders at Order History.
+
+Using Responsive UI.
+
+Using Firebase & SQLite.
+
+Using GetX as state management.
+
+Using MVVM architecture and clean code.
+
+# updates
+
+i will anounce when finish the final version but still working on app and some features.
+
+this features in the last version untill now.
